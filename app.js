@@ -19,7 +19,7 @@ if (numeroUsuario < numeroSecreto ){
 
 
 //desafio 2
-
+//practica desafio 2
 let nombre = luna;
 let edad = 25;
 let numeroVentas = 50;
